@@ -1,0 +1,23 @@
+﻿  Game.cpp
+C:\Informatyka\II rok\4 Semestr\Cpp_Project\GameFiles\Game.cpp(33,100): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+C:\Informatyka\II rok\4 Semestr\Cpp_Project\GameFiles\Game.cpp(33,100): warning C4244:         with
+C:\Informatyka\II rok\4 Semestr\Cpp_Project\GameFiles\Game.cpp(33,100): warning C4244:         [
+C:\Informatyka\II rok\4 Semestr\Cpp_Project\GameFiles\Game.cpp(33,100): warning C4244:             T=unsigned int
+C:\Informatyka\II rok\4 Semestr\Cpp_Project\GameFiles\Game.cpp(33,100): warning C4244:         ]
+C:\Informatyka\II rok\4 Semestr\Cpp_Project\GameFiles\Game.cpp(33,48): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+C:\Informatyka\II rok\4 Semestr\Cpp_Project\GameFiles\Game.cpp(33,48): warning C4244:         with
+C:\Informatyka\II rok\4 Semestr\Cpp_Project\GameFiles\Game.cpp(33,48): warning C4244:         [
+C:\Informatyka\II rok\4 Semestr\Cpp_Project\GameFiles\Game.cpp(33,48): warning C4244:             T=unsigned int
+C:\Informatyka\II rok\4 Semestr\Cpp_Project\GameFiles\Game.cpp(33,48): warning C4244:         ]
+C:\Informatyka\II rok\4 Semestr\Cpp_Project\GameFiles\Game.cpp(35,34): warning C4244: "inicjowanie": konwersja z "T" do "float", możliwa utrata danych
+C:\Informatyka\II rok\4 Semestr\Cpp_Project\GameFiles\Game.cpp(35,34): warning C4244:         with
+C:\Informatyka\II rok\4 Semestr\Cpp_Project\GameFiles\Game.cpp(35,34): warning C4244:         [
+C:\Informatyka\II rok\4 Semestr\Cpp_Project\GameFiles\Game.cpp(35,34): warning C4244:             T=unsigned int
+C:\Informatyka\II rok\4 Semestr\Cpp_Project\GameFiles\Game.cpp(35,34): warning C4244:         ]
+C:\Informatyka\II rok\4 Semestr\Cpp_Project\GameFiles\Game.cpp(48,38): warning C4305: "argument": obcięcie z "double" do "float"
+  Trwa generowanie kodu
+  2 of 211 functions ( 0.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  FlappyBird_CPP.vcxproj -> C:\Informatyka\II rok\4 Semestr\Cpp_Project\GameFiles\x64\Release\FlappyBird.exe
